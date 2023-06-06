@@ -1,5 +1,9 @@
-Hello, My name is Muhammadazim 
-I'm Flutter developer
+Muhammadazim Odiljonov
+Flutter Developer | Dart Enthusiast
+
+Passionate about mobile app development, I am currently focused on creating mobile applications in Flutter. Previously, I gained a knowledge in C++, which has provided me with valuable programming skills. With my dedication to continuous learning, I am actively expanding my expertise in Dart and Flutter.
+
+Let's connect and explore opportunities to collaborate on exciting projects in the world of Mobile development with Flutter
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/odiljonovv7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammadazim-odiljonov-129152261/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@odiljonov150) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/odiljonov150) 
